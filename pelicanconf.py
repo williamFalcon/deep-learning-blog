@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'William Falcon'
 SITENAME = 'Deep Learning Rabbit'
-SITEURL = ''
+SITEURL = 'https://williamfalcon.github.io/deep-learning-blog'
 
 PATH = 'content'
 
